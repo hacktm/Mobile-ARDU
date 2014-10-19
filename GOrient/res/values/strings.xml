@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GOrient</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="navigate">Navigate</string>
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+    <string name="bluetooth_name">Bluetooth Name</string>
+    <string name="pair_key">Pair key</string>
+    <string name="ok">OK</string>
+    <string name="enter_destination">Enter destination</string>
+    <string name="generate_route">Generate Route</string>
+    <string name="confirm">Confirm</string>
+
+</resources>
